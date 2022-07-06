@@ -4,9 +4,12 @@ body {
 
 .login-form {
     background-color: #161d2f;
+    font-family: var(--font-outfit);
 }
 
 h1.login-header {
-    color: white;
-    font-size: 32px;
+    color: var(--color-pure-white);
+    font-family: var(--font-outfit);
+    font-size: var(--heading-L-size);
+    font-weight: var(--heading-L-weight);
 }
