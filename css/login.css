@@ -5,6 +5,8 @@ body {
 .login-form {
     background-color: #161d2f;
     font-family: var(--font-outfit);
+    margin-left: 24px;
+    margin-right: 24px;
 }
 
 h1.login-header {
