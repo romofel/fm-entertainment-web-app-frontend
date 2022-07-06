@@ -53,4 +53,17 @@ table {
 	--color-greyish-blue: #5a698f;
 	--color-semi-dark-blue: #161d2f;
 	--color-pure-white: #ffffff;
+
+	--heading-L-size: 32px;
+	--heading-L-weight: light;
+	--heading-M-size: 24px;
+	--heading-M-weight: light;
+	--heading-S-size: 24px;
+	--heading-S-weight: medium;
+	--heading-XS-size: 18px;
+	--heading-XS-weight: medium;
+	--body-M-size: 15px;
+	--body-M-weight: light;
+	--body-S-size: 13px;
+	--body-S-weight: light; 
 }
