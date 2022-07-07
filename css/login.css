@@ -16,3 +16,9 @@ h1.login-header {
     font-size: var(--heading-L-size);
     font-weight: var(--heading-L-weight);
 }
+
+.login-form input {
+    background: none;
+    border: none;
+    border-bottom: 1px var(--color-greyish-blue) solid;
+}
