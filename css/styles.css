@@ -57,15 +57,15 @@ table {
 	--font-outfit: 'Outfit', sans-serif;
 
 	--heading-L-size: 32px;
-	--heading-L-weight: light;
+	--heading-L-weight: 300;
 	--heading-M-size: 24px;
-	--heading-M-weight: light;
+	--heading-M-weight: 300;
 	--heading-S-size: 24px;
-	--heading-S-weight: medium;
+	--heading-S-weight: 500;
 	--heading-XS-size: 18px;
-	--heading-XS-weight: medium;
+	--heading-XS-weight: 500;
 	--body-M-size: 15px;
-	--body-M-weight: light;
+	--body-M-weight: 300;
 	--body-S-size: 13px;
-	--body-S-weight: light; 
+	--body-S-weight: 300; 
 }
