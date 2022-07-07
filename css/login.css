@@ -2,6 +2,12 @@ body {
     background-color: #10141e;
 }
 
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .login-form {
     background-color: #161d2f;
     font-family: var(--font-outfit);
