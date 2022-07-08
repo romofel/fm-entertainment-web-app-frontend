@@ -41,3 +41,12 @@ h1.login-header {
 .login-password {
   margin-top: 1.5rem;
 }
+
+.login-submit {
+  width: 17.5rem;
+  height: 3rem;
+  background-color: var(--color-red);
+  border: none;
+  border-radius: 0.375rem;
+  color: var(--color-pure-white);
+}
