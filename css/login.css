@@ -55,4 +55,10 @@ h1.login-header {
   color: var(--color-pure-white);
   size: var(--body-M-size);
   font-weight: var(--body-M-weight);
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+.login-text a {
+  color: var(--color-red);
 }
