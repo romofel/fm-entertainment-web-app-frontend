@@ -65,6 +65,11 @@ h1.login-header {
   font-size: var(--body-M-size);
 }
 
+.login-submit:hover {
+  background-color: var(--color-pure-white);
+  color: var(--color-semi-dark-blue);
+}
+
 .login-text {
   color: var(--color-pure-white);
   font-size: var(--body-M-size);
