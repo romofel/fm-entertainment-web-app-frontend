@@ -51,6 +51,9 @@ h1.login-header {
   border: none;
   border-radius: 0.375rem;
   color: var(--color-pure-white);
+  font-family: var(--font-outfit);
+  font-weight: var(--body-M-weight);
+  font-size: var(--body-M-size);
 }
 
 .login-text {
