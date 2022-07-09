@@ -1,0 +1,17 @@
+body {
+  background-color: var(--color-dark-blue);
+}
+
+.logo {
+  display: block;
+  margin: 3rem auto;
+}
+
+.signup-form {
+  background-color: var(--color-semi-dark-blue);
+  font-family: var(--font-outfit);
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  padding: 1.5rem;
+  border-radius: 0.625rem;
+}
