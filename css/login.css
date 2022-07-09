@@ -39,6 +39,10 @@ h1.login-header {
   font-weight: var(--body-M-weight);
 }
 
+.login-email {
+  margin-top: 2.5rem;
+}
+
 .login-password {
   margin-top: 1.5rem;
 }
