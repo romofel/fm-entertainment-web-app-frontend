@@ -30,12 +30,17 @@ h1.login-header {
   border-bottom: 1px var(--color-greyish-blue) solid;
   width: 100%;
   height: 2.5rem;
+  color: var(--color-pure-white);
+  font-family: var(--font-outfit);
+  font-size: var(--body-M-size);
+  padding: 1rem;
+  box-sizing: border-box;
 }
 
 .login-form input::placeholder {
   color: rgba(255, 255, 255, 0.5);
   font-family: var(--font-outfit);
-  size: var(--body-M-size);
+  font-size: var(--body-M-size);
   font-weight: var(--body-M-weight);
 }
 
@@ -62,7 +67,7 @@ h1.login-header {
 
 .login-text {
   color: var(--color-pure-white);
-  size: var(--body-M-size);
+  font-size: var(--body-M-size);
   font-weight: var(--body-M-weight);
   text-align: center;
   margin-top: 1.5rem;
