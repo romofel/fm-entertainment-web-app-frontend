@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,20 +13,28 @@
 
   <link rel="stylesheet" href="./css/styles.css">
   <link rel="stylesheet" href="./css/sign-up.css">
-  
+
   <title>Frontend Mentor | Entertainment web app</title>
 </head>
+
 <body>
 
-  Sign Up
+  <img src="./assets/logo.svg" alt="logo" class="logo">
 
-  Email address
-  Password
-  Repeat password
+  <div class="login-form">
+    <form action="">
+      <h1 class="signup-header">Sign Up</h1>
 
-  Create an account
+      <input type="email" name="email" id="email">
+      <input type="password" name="password" id="password">
+      <input type="password" name="repassword" id="repassword">
 
-  Already have an account? Login
-  
+      <button class="signup-submit">Create an account</button>
+
+      <p class="signup-text">Already have an account? <a href="#">Login</a></p>
+    </form>
+  </div>
+
 </body>
+
 </html>
