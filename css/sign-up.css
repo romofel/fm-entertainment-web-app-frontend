@@ -15,3 +15,10 @@ body {
   padding: 1.5rem;
   border-radius: 0.625rem;
 }
+
+h1.signup-header {
+  color: var(--color-pure-white);
+  font-family: var(--font-outfit);
+  font-size: var(--heading-L-size);
+  font-weight: var(--heading-L-weight);
+}
