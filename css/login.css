@@ -81,4 +81,5 @@ h1.login-header {
 .login-text a {
   color: var(--color-red);
   margin-left: .5rem;
+  text-decoration: none;
 }
