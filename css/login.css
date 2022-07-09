@@ -45,6 +45,7 @@ h1.login-header {
 .login-submit {
   width: 17.5rem;
   height: 3rem;
+  margin-top: 2.5rem;
   background-color: var(--color-red);
   border: none;
   border-radius: 0.375rem;
