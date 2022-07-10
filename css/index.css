@@ -1,0 +1,8 @@
+body {
+  background-color: var(--color-dark-blue);
+}
+
+nav {
+  background-color: var(--color-semi-dark-blue);
+  display: flex;
+}
