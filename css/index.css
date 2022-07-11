@@ -7,3 +7,7 @@ nav {
   display: flex;
   justify-content: space-between;
 }
+
+.mid-nav {
+  display: flex;
+}
