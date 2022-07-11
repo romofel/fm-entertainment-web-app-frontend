@@ -6,6 +6,7 @@ nav {
   background-color: var(--color-semi-dark-blue);
   display: flex;
   justify-content: space-between;
+  height: 3.5rem;
 }
 
 .nav-logo {
