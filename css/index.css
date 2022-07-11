@@ -8,6 +8,8 @@ nav {
   justify-content: space-between;
   align-items: center;
   height: 3.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .nav-logo {
