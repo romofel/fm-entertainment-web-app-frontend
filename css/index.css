@@ -8,6 +8,16 @@ nav {
   justify-content: space-between;
 }
 
+.nav-logo {
+  width: 1.5625rem;
+  height: 1.25rem;
+}
+
 .mid-nav {
   display: flex;
+}
+
+.avatar img {
+  width: 1.5rem;
+  height: 1.5rem;
 }
