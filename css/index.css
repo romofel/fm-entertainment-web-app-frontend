@@ -173,6 +173,10 @@ section#recommended {
   background-size: contain;
 }
 
+.recommended-movie-details {
+  display: flex;
+}
+
 .recommended-movie-title {
   font-family: var(--font-outfit);
   font-weight: 500;
