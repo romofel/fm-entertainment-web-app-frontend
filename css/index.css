@@ -92,6 +92,10 @@ section#trending {
   box-sizing: border-box;
 }
 
+.trending-movie:not(:first-of-type) {
+margin-left: 1rem;
+}
+
 .trending-movie .bookmark-icon {
   background-color: rgba(16 20 30 / 50%);
   display: flex;
