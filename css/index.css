@@ -60,6 +60,10 @@ ul.mid-nav li:not(:first-of-type) {
   opacity: 0.49;
 }
 
+section#trending {
+  padding-left: 1rem;
+}
+
 .trending-heading {
   font-family: var(--font-outfit);
   font-weight: 300;
