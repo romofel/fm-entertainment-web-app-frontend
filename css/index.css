@@ -48,6 +48,7 @@ ul.mid-nav li:not(:first-of-type) {
   width: 100%;
   border: none;
   background: none;
+  margin-left: 1rem;
 }
 
 .search-bar input::placeholder {
