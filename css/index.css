@@ -97,7 +97,7 @@ section#trending {
 }
 
 .trending-movie:not(:first-of-type) {
-margin-left: 1rem;
+  margin-left: 1rem;
 }
 
 .trending-movie .bookmark-icon {
@@ -121,7 +121,7 @@ margin-left: 1rem;
 }
 
 .trending-movie-details-section-top li:not(:nth-of-type(1)) {
-  margin-left: .5rem;
+  margin-left: 6px;
 }
 
 .trending-movie-details-section-top li:nth-of-type(3) {
@@ -129,7 +129,7 @@ margin-left: 1rem;
 }
 
 .trending-movie-details-section-top li:nth-of-type(3) p {
-  margin-left: 6px;
+  margin-left: 4px;
 }
 
 .separator {
@@ -182,8 +182,16 @@ section#recommended {
   color: rgba(255 255 255 / 75%);
 }
 
+.recommended-movie-details li:not(:first-of-type) {
+  margin-left: 6px;
+}
+
+.recommended-movie-details li:nth-of-type(3) p {
+  margin-left: 4px;
+}
+
 .recommended-movie-details li:nth-of-type(3) {
-display: flex;
+  display: flex;
 }
 
 .recommended-movie-title {
