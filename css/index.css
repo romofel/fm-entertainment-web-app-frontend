@@ -78,6 +78,7 @@ section#trending {
 }
 
 .trending-movie {
+  min-width: 15rem;
   width: 15rem;
   height: 8.75rem;
   display: flex;
