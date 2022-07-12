@@ -150,6 +150,6 @@ margin-left: 1rem;
 .recommended-heading {
   font-family: var(--font-outfit);
   font-weight: 300;
-  font-size: 20;
+  font-size: 20px;
   color: var(--color-pure-white);
 }
