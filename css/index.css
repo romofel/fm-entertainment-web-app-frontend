@@ -172,3 +172,10 @@ section#recommended {
   background-repeat: no-repeat;
   background-size: contain;
 }
+
+.recommended-movie-title {
+  font-family: var(--font-outfit);
+  font-weight: 500;
+  font-size: 14px;
+  color: var(--color-pure-white);
+}
