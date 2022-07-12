@@ -159,3 +159,7 @@ section#recommended {
   font-size: 20px;
   color: var(--color-pure-white);
 }
+
+.recommended-grid {
+  margin-top: 1.5rem;
+}
