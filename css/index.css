@@ -32,6 +32,15 @@ ul.mid-nav li:not(:first-of-type) {
   margin-left: 1.5rem;
 }
 
+.search-bar {
+  display: flex;
+}
+
+.search-bar img {
+  width: 2rem;
+  height: 2rem;
+}
+
 .search-bar input {
   height: 3rem;
   width: 100%;
