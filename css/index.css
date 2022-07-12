@@ -102,6 +102,10 @@ section#trending {
 
 .trending-movie-details-section-top {
   display: flex;
+  color: rgba(255 255 255 / 75%);
+  font-family: var(--font-outfit);
+  font-weight: 300;
+  font-size: 12px;
 }
 
 .trending-movie-details-section-top li:nth-of-type(3) {
