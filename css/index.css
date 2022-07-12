@@ -182,6 +182,10 @@ section#recommended {
   color: rgba(255 255 255 / 75%);
 }
 
+.recommended-movie-details li:nth-of-type(3) {
+display: flex;
+}
+
 .recommended-movie-title {
   font-family: var(--font-outfit);
   font-weight: 500;
