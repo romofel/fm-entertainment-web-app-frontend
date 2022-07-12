@@ -147,6 +147,10 @@ margin-left: 1rem;
   margin-top: 4px;
 }
 
+section#recommended {
+  margin-top: 1.5rem;
+}
+
 .recommended-heading {
   font-family: var(--font-outfit);
   font-weight: 300;
