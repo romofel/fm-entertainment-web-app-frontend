@@ -163,3 +163,10 @@ section#recommended {
 .recommended-grid {
   margin-top: 1.5rem;
 }
+
+.recommended-movie-poster {
+  width: 10.25rem;
+  height: 6.875rem;
+  border-radius: .5rem;
+  background-color: red;
+}
