@@ -38,8 +38,8 @@ ul.mid-nav li:not(:first-of-type) {
 }
 
 .search-bar img {
-  width: 2rem;
-  height: 2rem;
+  width: 1.125rem ;
+  height: 1.125rem;
 }
 
 .search-bar input {
