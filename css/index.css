@@ -85,6 +85,8 @@ section#trending {
   background-image: url('../assets/thumbnails/beyond-earth/trending/small.jpg');
   background-repeat: no-repeat;
   background-size: contain;
+  padding: .5rem;
+  box-sizing: border-box;
 }
 
 .trending-movie .bookmark-icon {
