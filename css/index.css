@@ -35,6 +35,7 @@ ul.mid-nav li:not(:first-of-type) {
 .search-bar {
   display: flex;
   align-items: center;
+  padding-left: 1rem;
 }
 
 .search-bar img {
