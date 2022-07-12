@@ -99,3 +99,11 @@ section#trending {
   height: 2rem;
   border-radius: 5rem;
 }
+
+.trending-movie-details-section-top {
+  display: flex;
+}
+
+.trending-movie-details-section-top li:nth-of-type(3) {
+  display: flex;
+}
