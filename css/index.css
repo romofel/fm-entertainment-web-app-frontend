@@ -77,6 +77,10 @@ section#trending {
   overflow: scroll;
 }
 
+.trending-row::-webkit-scrollbar {
+  display: none;
+}
+
 .trending-movie {
   min-width: 15rem;
   width: 15rem;
