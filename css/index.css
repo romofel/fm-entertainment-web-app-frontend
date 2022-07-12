@@ -168,5 +168,7 @@ section#recommended {
   width: 10.25rem;
   height: 6.875rem;
   border-radius: .5rem;
-  background-color: red;
+  background-image: url('../assets/thumbnails/the-great-lands/regular/small.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
 }
