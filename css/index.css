@@ -146,3 +146,10 @@ margin-left: 1rem;
   color: var(--color-pure-white);
   margin-top: 4px;
 }
+
+.recommended-heading {
+  font-family: var(--font-outfit);
+  font-weight: 300;
+  font-size: 20;
+  color: var(--color-pure-white);
+}
