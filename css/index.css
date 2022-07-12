@@ -48,3 +48,12 @@ ul.mid-nav li:not(:first-of-type) {
   border: none;
   background: none;
 }
+
+.search-bar input::placeholder {
+  font-family: var(--font-outfit);
+  /* font-size: var(--heading-M-size); */
+  font-size: 16px;
+  font-weight: var(--heading-M-weight);
+  color: var(--color-pure-white);
+  opacity: 0.49;
+}
