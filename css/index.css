@@ -175,6 +175,10 @@ section#recommended {
 
 .recommended-movie-details {
   display: flex;
+  font-family: var(--font-outfit);
+  font-weight: 300;
+  font-size: 11px;
+  color: rgba(255 255 255 / 75%);
 }
 
 .recommended-movie-title {
