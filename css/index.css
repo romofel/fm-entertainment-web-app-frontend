@@ -175,6 +175,7 @@ section#recommended {
 
 .recommended-movie-details {
   display: flex;
+  align-items: center;
   font-family: var(--font-outfit);
   font-weight: 300;
   font-size: 11px;
