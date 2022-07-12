@@ -127,3 +127,10 @@ section#trending {
   background-color: rgba(255 255 255 / 50%);
   border-radius: 5rem;
 }
+
+.trending-movie-title {
+  font-family: var(--font-outfit);
+  font-weight: 500;
+  font-size: 15px;
+  color: var(--color-pure-white);
+}
