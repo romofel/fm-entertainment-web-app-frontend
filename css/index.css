@@ -133,4 +133,5 @@ section#trending {
   font-weight: 500;
   font-size: 15px;
   color: var(--color-pure-white);
+  margin-top: 4px;
 }
